@@ -1,3 +1,2 @@
-# devblog-UDAY-KUMAR
+# devblog-SOWMIYA
 
-Live: https://dev-blog-bqfg0w4tp-udaykumariot.vercel.app/
